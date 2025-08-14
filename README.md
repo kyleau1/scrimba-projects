@@ -52,6 +52,8 @@ Tenzies is a digital dice game where the goal is to roll until all 10 dice show 
 4. When the game is won, confetti drops and the button changes to New Game.  
 5. Click New Game to reset the dice and play again.
 
+---
+
 ## **Project 3: Assembly Endgame (Hangman)**
 
 **Description:**  
@@ -72,4 +74,5 @@ Assembly Endgame is a coding-themed twist on Hangman. Instead of hanging a man, 
 3. Correct guesses reveal letters in the word  
 4. If all attempts are used, the full word is revealed  
 5. Goal: Guess the word before the universe loses all languages
+
 
